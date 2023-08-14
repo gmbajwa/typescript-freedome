@@ -1,0 +1,14 @@
+What is type script
+typescript is static type object oriented programing language developen by microsoft in 2012
+and idea behind inventing typescript is to develope medium to enterprise level application.
+where as JS develope in 1995 by Brenden Eiec to add interactivity in webpage. Latter on added
+ support in JS to develop small to mid level application not production grade applications.
+ 
+ TypeScript being used to write client side code using React and Angular and to write server
+ side code used as node.
+ 
+ ts code is first compalation phase ----> compilation phase ---> transpilation phase ---> execution phase
+ js code is first interpret phase ---> execution phase
+ 
+ 
+ 
